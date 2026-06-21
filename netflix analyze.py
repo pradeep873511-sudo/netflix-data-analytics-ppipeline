@@ -24,4 +24,4 @@ ORDER BY year
 """
 print(pd.read_sql(q3, conn))
 
-conn.close(
+conn.close()
