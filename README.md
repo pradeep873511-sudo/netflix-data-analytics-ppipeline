@@ -29,3 +29,5 @@ Netflix Titles dataset from Kaggle – 8,807 rows (2008–2021)
 This project taught me how to build a complete data pipeline 
 from raw CSV to a live dashboard — handling messy data, 
 writing SQL queries, and connecting everything in one project.
+
+
